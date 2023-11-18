@@ -1,0 +1,10 @@
+Legitimate player IDs followed with their final balance and their betting win rate:
+163f23ed-e9a9-4e54-a5b1-4e1fc86f12f4 3567 0.86
+163f23ed-e9a9-4e54-a5b1-4e1fc86f12k7 2000 0.00
+
+Illegitimate players by their first illegal operation:
+163f23ed-e9a9-4e54-a5b1-4e1fc86f12g4,WITHDRAW,,40000,
+163f23ed-e9a9-4e54-a5b1-4e1fc86f12y8,WITHDRAW,,70000,
+4925ac98-833b-454b-9342-13ed3dfd3ccf,WITHDRAW,,8093,
+
+Coin changes in casino host balance: -384
